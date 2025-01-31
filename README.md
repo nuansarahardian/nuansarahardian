@@ -5,7 +5,7 @@
 </h1>
 <div align="center"> <img src="https://github.com/nuansarahardian/nuansarahardian/blob/main/banner.png"> </div>
 
-<h3 align="center">A passionate Front-End Developer - UI/UX Designer - Mobile Developer</h3>
+<h3 align="center">A passionate Fullstack Developer - UI/UX Designer</h3>
 
 <br/>
 
