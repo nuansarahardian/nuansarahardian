@@ -41,7 +41,7 @@
     
 <h4 align="center">Languages-Frameworks</h4>
 <div align="center">
-<img style="margin-bottom: 10px;"src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,nextjs,nodejs" />
+<img style="margin-bottom: 10px;"src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,expressjs,nodejs" />
 
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,c,mysql,flutter" /></img>
